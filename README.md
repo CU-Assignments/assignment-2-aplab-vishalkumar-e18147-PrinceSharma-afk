@@ -33,33 +33,33 @@
    - Screenshot: ![Problem 7](solutions/Problem7.png)  
 
 9. [Problem-493. Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/)  
-   - Solution 8: [LeetCode Submission](https://leetcode.com/problems/reverse-pairs/description/)  
+   - Solution 9: [LeetCode Submission](https://leetcode.com/problems/reverse-pairs/description/)  
    - Screenshot: ![Problem 9](solutions/Problem9.png)  
 
 11. [Problem-88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)  
-    - Solution 9: [LeetCode Submission](https://leetcode.com/problems/merge-sorted-array/submissions/1521038922)  
+    - Solution 11: [LeetCode Submission](https://leetcode.com/problems/merge-sorted-array/submissions/1521038922)  
     - Screenshot: ![Problem 11](solutions/Problem11.png)  
 
 13. [Problem-75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)  
-    - Solution 10: [LeetCode Submission](https://leetcode.com/problems/sort-colors/submissions/1532121859)  
+    - Solution 13: [LeetCode Submission](https://leetcode.com/problems/sort-colors/submissions/1532121859)  
     - Screenshot: ![Problem 13](solutions/Problem13.png)  
 
 14. [Problem-347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)  
-    - Solution 11: [LeetCode Submission](https://leetcode.com/problems/top-k-frequent-elements/submissions/1532131879)  
+    - Solution 14: [LeetCode Submission](https://leetcode.com/problems/top-k-frequent-elements/submissions/1532131879)  
     - Screenshot: ![Problem 14](solutions/Problem14.png)  
 
 15. [Problem-215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)  
-    - Solution 12: [LeetCode Submission](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1532126608)  
+    - Solution 15: [LeetCode Submission](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/1532126608)  
     - Screenshot: ![Problem 15](solutions/Problem15.png)  
 
 18. [Problem-33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)  
-    - Solution 13: [LeetCode Submission](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1532113623)  
+    - Solution 18: [LeetCode Submission](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1532113623)  
     - Screenshot: ![Problem 18](solutions/Problem18.png)  
 
 21. [Problem-378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)  
-    - Solution 14: [LeetCode Submission](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/1532134176)  
+    - Solution 21: [LeetCode Submission](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/1532134176)  
     - Screenshot: ![Problem 21](solutions/Problem21.png)  
 
 23. [Problem-4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)  
-    - Solution 15: [LeetCode Submission](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1388607095)  
+    - Solution 23: [LeetCode Submission](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1388607095)  
     - Screenshot: ![Problem 23](solutions/Problem23.png)
